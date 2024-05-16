@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-image-gallery](modules/image-gallery)
 - [react-native-wallet-connect](modules/wallet-connect)
+- [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
 
