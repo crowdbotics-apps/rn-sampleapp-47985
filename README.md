@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-image-gallery](modules/image-gallery)
 - [react-native-wallet-connect](modules/wallet-connect)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-privacy-policy-webview](modules/privacy-policy-webview)
 
 # Getting started: Frontend
 
